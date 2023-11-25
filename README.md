@@ -45,7 +45,6 @@
     </a> 
     </td>
     </tr>
-    
     <tr>
     <td>Development</td>
     <td> <a href="https://github.com/SahilDhanwani" >
@@ -53,7 +52,6 @@
       </a>
     </td>
     </tr>
-    
     <tr>
     <td>CSS Framework</td>
     <td> <a href="https://github.com/SahilDhanwani" >
@@ -61,7 +59,6 @@
       </a>
      </td>
     </tr>
-    
     <!-- <tr>
     <td>UI</td>
     <td> <a href="https://github.com/SahilDhanwani" >
@@ -71,7 +68,6 @@
       </a>
      </td>
     </tr> -->
-    
     <tr>
     <td>Frontend Framework</td>
     <td> <a href="https://github.com/SahilDhanwani" >
@@ -79,7 +75,6 @@
       </a>
      </td>
     </tr>
-    
     <tr>
     <td>Backend Framework</td>
     <td> <a href="https://github.com/SahilDhanwani" >
@@ -88,14 +83,12 @@
        </a>
     </td>
     </tr>
-    
     <td>Database</td>
     <td> <a href="https://github.com/SahilDhanwani" >
         <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
        </a>
     </td>
     </tr>
-    
     <tr>
     <td>Hosting</td>
     <td> <a href="https://github.com/SahilDhanwani" >
@@ -103,7 +96,6 @@
       </a>
     </td>
     </tr>
-
     <tr>
     <td>Tools</td>
     <td> <a href="https://github.com/SahilDhanwani" >
@@ -111,12 +103,9 @@
       </a>
     </td>
     </tr>
-
     </table>
     </div>
-
     <hr>
-
     <h2 align="center">⚡ Stats ⚡</h2>
 
 <br/>
@@ -125,19 +114,14 @@
     <a href="https://github.com/SahilDhanwani">
         <img width=500 src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=SahilDhanwani&show_icons=true&count_private=true&include_all_commits=true&theme=react&border_radius=10" alt="Sahil's github stats" />
     </a>
-
     <br>
     <br>
-
     <a href="https://github.com/SahilDhanwani">
         <img width=500 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=SahilDhanwani&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
     </a>
-
     <br>
     <br>
-    
     <a href="https://github.com/SahilDhanwani">
         <img width=500 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SahilDhanwani&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
         </a>
-
     </div>
