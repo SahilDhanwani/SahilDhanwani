@@ -1,13 +1,9 @@
-<<<<<<< HEAD
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=/index.html" alt="Visitor Badge"/>
-=======
 <div align="center">
     <h1>Hi, I'm Sahil Dhanwani 👋</h1>
     <h3>
         A Passionate Software Developer | Robotics Enthusiast | Creative Problem-Solver
     </h3>
 </div>
->>>>>>> 32016f34a5f1388179ef202750ea86d890179b03
 
 ---
 
