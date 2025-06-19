@@ -1,127 +1,101 @@
+<<<<<<< HEAD
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=/index.html" alt="Visitor Badge"/>
+=======
+<div align="center">
+    <h1>Hi, I'm Sahil Dhanwani 👋</h1>
+    <h3>
+        A Passionate Software Developer | Robotics Enthusiast | Creative Problem-Solver
+    </h3>
+</div>
+>>>>>>> 32016f34a5f1388179ef202750ea86d890179b03
 
-<h1 align="center">
-    <img src="SahilD_gif.gif" alt="Sahil writing codes"/><br/><br/>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1500&center=true&vCenter=true&random=false&width=800&lines=Hi+There+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F%2C+I+am+Sahil+Dhanwani" alt="Typing SVG" />
-</h1>
-
-<h3 align="center">A passionate software developer</h3>
-
-<br/>
+---
 
 <div align="center">
- <!-- 🔭 -->
- 🌱 I’m currently pursuing my B-tech degree in <b>Computer Science (RL)</b> from <a href="http://www.pccoepune.com/">PCCOE college, Pune</a>
- <br/>
- 🌱 Learning <b>Web and App Development</b>
- <br/>
- 💬 Ask me about <b>Academics, Coding, Fun & Travel or Anything</b>
- <br/>
- </div>
-<br>
- <div align="center"> 
-    <a href="sahildhanwani291203@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-    </a>
-    <a href="https://www.linkedin.com/in/sahil-dhanwani-37825822b" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-    </a>
-    <a href="#" target="_blank">
-       <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
-    </a>
-  </div>
+    📍 Ahmednagar, India <br/>
+    📧 <a href="mailto:sahildhanwani291203@gmail.com">sahildhanwani291203@gmail.com</a> <br/>
+    🌐 <a href="https://sahildhanwani.github.io/MyPortfolio/" target="_blank">Portfolio</a> | <a href="https://www.linkedin.com/in/sahildhanwani/" target="_blank">LinkedIn</a> | <a href="https://github.com/SahilDhanwani" target="_blank">GitHub</a>
+</div>
 
-  <hr/>
+---
 
-  <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-  <br/>
+### 🎓 **Education**
+**PCET's Pimpri Chinchwad College of Engineering, Pune**  
+_Bachelor of Technology in Computer Science (Robotics and Automation)_  
+**CGPA**: 8.17/10.0  
+**Graduation Year**: May 2025  
 
-  <div>
-    <table align="center">
-    <tr>
-    <td>Language</td>
-    <td> <a href="https://github.com/SahilDhanwani" >
-        <img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart,flutter,r" />
-    </a> 
-    </td>
-    </tr>
-    <tr>
-    <td>Development</td>
-    <td> <a href="https://github.com/SahilDhanwani" >
-        <img src="https://skillicons.dev/icons?i=html,css,scss,javascript" />
-      </a>
-    </td>
-    </tr>
-    <tr>
-    <td>CSS Framework</td>
-    <td> <a href="https://github.com/SahilDhanwani" >
-        <img src="https://skillicons.dev/icons?i=bootstrap,tailwind" />
-      </a>
-     </td>
-    </tr>
-    <!-- <tr>
-    <td>UI</td>
-    <td> <a href="https://github.com/SahilDhanwani" >
-        <img height="50rem" src=chakra.jpg/>
-        <img height="50rem" src=daisy.png/>
-        <img height="50rem" src=shadn.png />
-      </a>
-     </td>
-    </tr> -->
-    <tr>
-    <td>Frontend Framework</td>
-    <td> <a href="https://github.com/SahilDhanwani" >
-        <img src="https://skillicons.dev/icons?i=react" />
-      </a>
-     </td>
-    </tr>
-    <tr>
-    <td>Backend Framework</td>
-    <td> <a href="https://github.com/SahilDhanwani" >
-        <img src="https://skillicons.dev/icons?i=nodejs,express" />
-        <!-- <img height="50rem" src = './zod.svg'/> -->
-       </a>
-    </td>
-    </tr>
-    <td>Database</td>
-    <td> <a href="https://github.com/SahilDhanwani" >
-        <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-       </a>
-    </td>
-    </tr>
-    <tr>
-    <td>Hosting</td>
-    <td> <a href="https://github.com/SahilDhanwani" >
-        <img src="https://skillicons.dev/icons?i=firebase,github,aws" />
-      </a>
-    </td>
-    </tr>
-    <tr>
-    <td>Tools</td>
-    <td> <a href="https://github.com/SahilDhanwani" >
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,androidstudio,stackoverflow" />
-      </a>
-    </td>
-    </tr>
-    </table>
-    </div>
-    <hr>
-    <h2 align="center">⚡ Stats ⚡</h2>
+---
 
-<br/>
+### 💼 **Professional Experience**
+**Mobile Robotics Intern**  
+*Addverb Technologies, Noida, India (May 2024 – Oct 2024)*  
+- Engineered a software application to configure and verify autonomous robot sensors, boosting manufacturing efficiency by 75%.
+- Simulated complex robot behaviors using Gazebo, enhancing real-world robotic reliability.
+- Embraced Agile practices, utilizing Azure DevOps for sprint management and task tracking.
+- Participated in project planning, ensuring seamless delivery and client satisfaction.
 
-<div align=center>
+---
+
+### 🔥 **Key Projects**
+**1. Sudoku Solver** [🔗 View Project](https://github.com/SahilDhanwani/Sudoku_Solver_App)  
+- Designed an intuitive application to solve 9x9 Sudoku puzzles with exceptional speed and accuracy.  
+- Reduced manual solving time from 10 minutes to just 2 seconds.  
+**Tech Stack**: Java, Swing, Backtracking Algorithm  
+
+**2. Audiometer App** [🔗 View Project](https://github.com/SahilDhanwani/SIH_23)  
+- Built a hearing test app that provides audiograms, calibrates background noise, and stores data securely.  
+- Eliminated costly consultations, reducing testing time from 2 hours to 5 minutes.  
+**Tech Stack**: Flutter, Firebase  
+
+---
+
+### 🛠 **Skills**
+**Programming Languages**: C, C++, Java, Python  
+**Frameworks**: Spring Boot, Node.js, Angular, Flutter  
+**Web Development**: HTML, CSS, JavaScript, Bootstrap  
+**Databases**: SQL, MongoDB, Firebase  
+**Tools**: Git, Docker, ROS, Azure DevOps, Eclipse, Linux  
+**Specializations**: Object-Oriented Programming, Data Structures and Algorithms  
+
+---
+
+### 🏆 **Awards & Achievements**
+- **Smart India Hackathon 2023**: 2nd place out of 130+ teams nationwide.  
+- **Best Performing Team Award**: Recognized for exceptional leadership and innovative solutions.  
+- **DD Robocon Finalist**: Collaborated with 40+ peers to build competitive robots from scratch.  
+- **Plagiarism Coding Contest**: Secured 3rd place among 120+ participants.
+
+---
+
+### 📜 **Certifications**
+- **Python Workshop** - IIT Bombay  
+- **Java Beginner Course** - Oracle Foundation  
+- **IDE Bootcamp** - Focus on innovation and design thinking  
+
+---
+
+### 🤝 **Volunteering & Leadership**
+- **Team Automatons**: Represented the college at Robocon; strengthened cross-discipline collaboration skills.  
+- **Team CESA ACM**: Organized flagship technical and non-technical events like Anantya.  
+
+---
+
+### 📊 **GitHub Stats**
+<div align="center">
     <a href="https://github.com/SahilDhanwani">
-        <img width=500 src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=SahilDhanwani&show_icons=true&count_private=true&include_all_commits=true&theme=react&border_radius=10" alt="Sahil's github stats" />
+        <img width="450" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=SahilDhanwani&show_icons=true&count_private=true&theme=react" alt="Sahil's GitHub Stats" />
     </a>
-    <br>
-    <br>
     <a href="https://github.com/SahilDhanwani">
-        <img width=500 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=SahilDhanwani&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+        <img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=SahilDhanwani&theme=react" alt="GitHub Streak Stats" />
     </a>
-    <br>
-    <br>
     <a href="https://github.com/SahilDhanwani">
-        <img width=500 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SahilDhanwani&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
-        </a>
-    </div>
+        <img width="450" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SahilDhanwani&layout=compact&theme=react" alt="Most Used Languages" />
+    </a>
+</div>
+
+---
+
+### 🚀 **Let’s Build Something Amazing Together!**
+Feel free to connect with me via [Email](mailto:sahildhanwani291203@gmail.com) or [LinkedIn](https://www.linkedin.com/in/sahildhanwani/).  
+Looking forward to collaborating and innovating!
