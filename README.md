@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=/index.html" alt="Visitor Badge" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=/index.html" alt="Visitor Badge"/>
 
 <h1 align="center">
     <img src="SahilD_gif.gif" alt="Sahil writing codes"/><br/><br/>
